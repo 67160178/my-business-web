@@ -27,22 +27,22 @@
 
 ### 1. หน้าแรก
 
-![Home Page](Screenshots/Screenshot 1.png)
+![Home Page](Screenshots/Screenshot%201.png)
 
 ### 2. หน้าเกี่ยวกับเรา
 
-![About Page](Screenshots/Screenshot 2.png)
-![About Page](<Screenshots/Screenshot 2.1.png>)
+![About Page](Screenshots/Screenshot%202.png)
+![About Page](Screenshots/Screenshot%202.1.png)
 
 ### 3. หน้าบริการ
 
-![Services Page](Screenshots/Screenshot 3.png)
-![Services Page](Screenshots/Screenshot 3.1.png)
+![Services Page](Screenshots/Screenshot%203.png)
+![Services Page](Screenshots/Screenshot%203.1.png)
 
 ### 4. หน้าติดต่อเรา
 
-![Contact Page](Screenshots/Screenshot 4.png)
-![Contact Page](Screenshots/Screenshot 4.1.png)
+![Contact Page](Screenshots/Screenshot%204.png)
+![Contact Page](Screenshots/Screenshot%204.1.png)
 
 ## ผู้จัดทำ
 
