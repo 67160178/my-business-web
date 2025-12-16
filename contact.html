@@ -4,13 +4,27 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tierla</title>
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header>
-      <h1>บริษัท เทียร์ร่า จำกัด</h1>
-      <picture>
-        <img src="/images/Tierla.png" style="width: 200px" alt="รูปภาพของฉัน" />
-      </picture>
+    <header class="main-header">
+      <div class="header-container">
+        <div class="logo">
+          <picture>
+            <img src="/images/Tierlaa.png" alt="ภาพโลโก้" />
+          </picture>
+          <h1>TIERLA Company Limited</h1>
+        </div>
+        <!--1.2 Navigation menu (หน้าแรก, เกี่ยวกับ, บริการ, ติดต่อ) ลิ้งไปยังหน้าต่างๆ-->
+        <nav>
+          <ul>
+            <li><a href="index.html">หน้าแรก</a></li>
+            <li><a href="about.html">เกี่ยวกับ</a></li>
+            <li><a href="services.html">บริการ</a></li>
+            <li><a href="contact.html">ติดต่อ</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
     <!--4.1 มี Contact Form สําหรับป้อนข้อมูล เช่น ชื่อ, อีเมล, ข้อความติดต่อเป็นต้น-->
     <main>
@@ -71,16 +85,25 @@
         </iframe>
       </section>
       <!--Link กลับหน้าแรก-->
-      <footer>
-        <nav>
-          <ul>
-            <li><a href="index.html">หน้าแรก</a></li>
-            <li><a href="about.html">เกี่ยวกับ</a></li>
-            <li><a href="services.html">บริการ</a></li>
-            <li><a href="contact.html">ติดต่อ</a></li>
-          </ul>
-        </nav>
-        <p>&copy; 2025 บริษัท Tierla จำกัด</p>
+      <footer class="main-footer">
+        <div class="footer-container">
+          <div class="footer-logo">
+            <picture>
+              <img src="/images/Tierlaa.png" alt="ภาพโลโก้" />
+            </picture>
+          </div>
+
+          <nav class="footer-nav">
+            <ul>
+              <li><a href="index.html">หน้าแรก</a></li>
+              <li><a href="about.html">เกี่ยวกับ</a></li>
+              <li><a href="services.html">บริการ</a></li>
+              <li><a href="contact.html">ติดต่อ</a></li>
+            </ul>
+          </nav>
+
+          <p class="footer-copy">&copy; 2025 บริษัท Tierla จำกัด</p>
+        </div>
       </footer>
     </main>
   </body>
