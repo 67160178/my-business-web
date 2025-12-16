@@ -138,7 +138,9 @@ nav a:hover::after {
   padding: 4rem 10%;
 }
 
-#about-us h1 {
+#about-us h1,
+h2,
+h3 {
   color: #d4af37;
 }
 
