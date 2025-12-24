@@ -93,9 +93,9 @@
 
 ### 4. หน้าติดต่อเรา
 
-![Contact Page](Screenshots/Contact4.1.png)
-![Contact Page](Screenshots/Contact4.2.png)
-![Contact Page](Screenshots/Contact4.3.png)
+![Contact Page](Screenshots/contact4.1.png)
+![Contact Page](Screenshots/contact4.2.png)
+![Contact Page](Screenshots/contact4.3.png)
 
 ## ผู้จัดทำ
 
